@@ -29,15 +29,25 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ### 🔝 STATS
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananthateja&theme=cobalt&show_icons=true&locale=en&layout=compact" alt="ananthateja" />
+    </td>
+    <td>
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=ananthateja&theme=gotham&show_icons=true&locale=en" alt="ananthateja" />
+    </td>
+  </tr>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananthateja&theme=dark&show_icons=true&locale=en&layout=compact" alt="ananthateja" /></p></br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ananthateja&theme=gotham&show_icons=true&locale=en" alt="ananthateja" /></p>
+<p>
+  <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=ananthateja&theme=dark&background=0D1117&border=DD2727&ring=DDA530&fire=DD2727&currStreakLabel=DDA530&sideLabels=DDA530&dates=7A8288&stroke=DD2727" alt="ananthateja" />
+</p>
 
-<p><img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=ananthateja&theme=dark&" alt="ananthateja" /></p>
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ananthateja&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ananthateja&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ananthateja&icon=5&color=0)](https://visitcount.itsvg.in)
