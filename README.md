@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/AnanthaTeja/AnanthaTeja/blob/main/baner.png)
 <h1 align="center">Hi 👋, I'm Anantha Teja Dasari</h1>
 <h3 align="center">Data Diver: Plunging into the Depths of Information</h3>
-<img align="right" alt="coding" width="400" src="https://im4.ezgif.com/tmp/ezgif-4-1de0886911.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/AnanthaTeja/AnanthaTeja/blob/main/pcgif.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananthateja&label=Profile%20views&color=0e75b6&style=flat" alt="ananthateja" /> </p>
