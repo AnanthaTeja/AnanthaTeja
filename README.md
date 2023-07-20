@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Django, Data Analytics**
 
-- 💬 Ask me about **C,C++,java**
+- 💬 Ask me anything related to programming
 
-- 📫 How to reach me **ananthateja2003@gmail.com**
+- 📫 How to reach me **ananthateja2003@gmail.com** ( or )    <a href="https://linkedin.com/in/anantha-teja-dasari-432992227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anantha-teja-dasari-432992227" height="20" width="20" /></a>
 
 - ⚡ Fun fact **I'm an anime enthusiast and avid watcher. Constantly seeking new series and hidden gems while finding inspiration in the imaginative worlds of anime.**
 
