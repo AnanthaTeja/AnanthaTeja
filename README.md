@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/AnanthaTeja/AnanthaTeja/blob/main/baner.png)
+![MasterTitle](https://github.com/AnanthaTeja/AnanthaTeja/blob/main/baner.png)
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&size=25&duration=3500&pause=1000&color=00F1F7&width=435&lines=I'm+Anantha+Teja+Dasari;I'm+a+Web+Developer;I'm+a+Data+Scientist" /></p>
 <h3 align="center">Data Diver: Plunging into the Depths of Information</h3>
@@ -22,11 +22,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="left">
-<a href="https://linkedin.com/in/anantha-teja-dasari-432992227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anantha-teja-dasari-432992227" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anantha-teja-dasari-432992227" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anantha-teja-dasari-432992227" height="30" width="40" /></a>
 <a href="https://instagram.com/ananthateja.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ananthateja.d" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/teja_2012" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="teja_2012" height="30" width="40"/></a>
-<a href="https://www.hackerrank.com/ap21110011369?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ap21110011369?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tack_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tack_05" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/teja_2012" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="teja_2012" height="30" width="40"/></a>
+<a href="https://www.hackerrank.com/ap21110011369?hr_r=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ap21110011369?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tack_05" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tack_05" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,22 +44,7 @@
 
 
 ### 🔝 STATS
-<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananthateja&theme=cobalt&show_icons=true&locale=en&layout=compact" alt="ananthateja" />
-    </td>
-    <td>
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=ananthateja&theme=gotham&show_icons=true&locale=en" alt="ananthateja" />
-    </td>
-  </tr>
-</table>
 
-<p>
-  <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=ananthateja&theme=dark&background=0D1117&border=DD2727&ring=DDA530&fire=DD2727&currStreakLabel=DDA530&sideLabels=DDA530&dates=7A8288&stroke=DD2727" alt="ananthateja" />
-</p>
--->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
