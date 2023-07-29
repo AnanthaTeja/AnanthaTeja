@@ -109,4 +109,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ananthateja&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ananthateja&icon=5&color=0)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=ananthateja&icon=5&color=5)](https://visitcount.itsvg.in)-->
+
+![](https://komarev.com/ghpvc/?username=ananthateja&color=dc143c)
