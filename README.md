@@ -39,13 +39,13 @@
 <!-- [Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 
 ### 📊 GitHub Stats:
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 [<img src="https://github-readme-stats.vercel.app/api?username=ananthateja&theme=aura&show_icons=true&locale=en&layout=compact" height="175">](https://github-readme-stats.vercel.app/api?username=ananthateja&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthateja&layout=compact&theme=aura&show_icons=true&locale=en" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=ananthateja&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 
-
+<!--
 ### 🔝 STATS
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -107,7 +107,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![](https://github-contributor-stats.vercel.app/api?username=ananthateja&limit=5&theme=aura&combine_all_yearly_contributions=true)
-
+-->
 ---
 <!--[![](https://visitcount.itsvg.in/api?id=ananthateja&icon=5&color=5)](https://visitcount.itsvg.in)-->
 
