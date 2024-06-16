@@ -1,8 +1,8 @@
-![MasterTitle ](https://github.com/AnanthaTeja/AnanthaTeja/blob/main/baner.png)
+
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&size=25&duration=3500&pause=1000&color=00F1F7&width=435&lines=I'm+Anantha+Teja+Dasari;I'm+a+Web+Developer;I'm+a+Data+Scientist" /></p>
 <h3 align="center" color="#FFA500" >Data Diver: Plunging into the Depths of Information</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <img align="right" alt="coding" width="400" src="https://github.com/AnanthaTeja/AnanthaTeja/blob/main/pcgif.gif">
 
@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I'm an anime enthusiast and avid watcher. Constantly seeking new series and hidden gems while finding inspiration in the imaginative worlds of anime.**
 
 <h3 align="left">Connect with me:</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <p align="left">
 <a href="https://linkedin.com/in/anantha-teja-dasari-432992227" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anantha-teja-dasari-432992227" height="30" width="40" /></a>
@@ -39,7 +39,7 @@
 <!-- [Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 
 ### 📊 GitHub Stats:
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 [<img src="https://github-readme-stats.vercel.app/api?username=ananthateja&theme=aura&show_icons=true&locale=en&layout=compact" height="175">](https://github-readme-stats.vercel.app/api?username=ananthateja&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
